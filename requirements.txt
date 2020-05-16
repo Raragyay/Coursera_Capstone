@@ -64,6 +64,7 @@ ratelim==0.1.6
 requests==2.23.0
 scikit-learn==0.23.0
 scipy==1.4.1
+seaborn==0.10.1
 Send2Trash==1.5.0
 six==1.14.0
 soupsieve==2.0
@@ -76,4 +77,5 @@ urllib3==1.25.9
 wcwidth==0.1.9
 webencodings==0.5.1
 widgetsnbextension==3.5.1
+yellowbrick==1.1
 zipp==3.1.0
